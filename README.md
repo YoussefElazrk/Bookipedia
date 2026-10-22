@@ -12,7 +12,7 @@ Bookipedia is a comprehensive online bookstore application developed collaborati
 - **Backend:** PHP
 - **Database:** MySQL
 - **Frontend:** HTML, CSS, JavaScript (Vanilla)
-- **Design:** Figma
+- **Design:** [Figma Prototype](https://www.figma.com/proto/hFfado72DBlDD1dgfIjgLv/login---register?node-id=147-1619&p=f&t=Zk9EIMNy7P9rMqOs-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ## 📸 Project Screenshots
 <img width="1905" height="952" alt="Screenshot 2026-10-22 150631" src="https://github.com/user-attachments/assets/5946996d-608e-4142-9fe8-cd32cfec2f3c" />
